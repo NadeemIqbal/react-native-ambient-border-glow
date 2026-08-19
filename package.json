@@ -1,6 +1,6 @@
 {
   "name": "react-native-ambient-border-glow",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Animated ambient border glow for React Native — a rotating sweep-gradient light that hugs the screen or any container edge.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
