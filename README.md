@@ -443,12 +443,6 @@ yarn example ios      # or: yarn example android
 Every prop is wired to a live control, including all sixteen edge combinations,
 the three directions, and both the ref-tracking and container forms.
 
-## Other platforms
-
-The visual contract lives in [`SPEC.md`](./SPEC.md) — geometry, timing,
-defaults, and reference path strings — so the planned Flutter and Compose
-Multiplatform ports match this one exactly.
-
 ## License
 
 MIT
